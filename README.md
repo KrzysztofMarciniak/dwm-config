@@ -1,6 +1,7 @@
+![screen](screenshot.png)
 software required:
-(`amixer`) - control media keys
-(`herbe`) - send notifications
+- (`amixer`) - control media keys
+- (`herbe`) - send notifications
 
 used patches:
 - dwm-amixer-integration-6.5.diff
